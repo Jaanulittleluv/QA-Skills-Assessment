@@ -22,6 +22,15 @@ Test cases that are covered from manual detailed test cases:
 * Framework: Playwright (JavaScript)
 * Architecture: Page Object Model (POM)
 
+## Execution Guide
+### Prerequisites
+* Node.js
+* Playwright installed via npm
+### Setup and run
+1.	**Clone the repository:** git clone https://github.com/Jaanulittleluv/QA-Skills-Assessment.git
+2.	**Install dependencies:** npm install
+3.	**Run the tests (Headed mode):** npx playwright test --headed
+4.	**View Report:** npx playwright show-report
 
 ## Important note on Execution and security
 
